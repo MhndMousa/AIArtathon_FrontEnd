@@ -1,18 +1,16 @@
 # AIArtathon_FrontEnd
 AI Artathon 2.0 submission
 
-
-
 - [Installation](#installation)
 - [Usage](#usage)
 
 
 ## Installation
-- Download to processing 3.5.4 [link](https://processing.org/download)
-- Open Processing and choose from the ```Tools``` from the toolbar then ```Add Tool...```
-- Choose ```Libraries``` from the tabbar and install the following libraries
-     [](/assets/l1.png)
-     [](/assets/l2.png)
+1. Download to processing 3.5.4 [link](https://processing.org/download)
+2. Open Processing and choose from the ```Tools``` from the toolbar then ```Add Tool...```
+3. Choose ```Libraries``` from the tabbar and install the following libraries
+     - ![library1](assets/l1.png)
+     - ![library2](assets/l2.png)
      
      
 ## Usage
